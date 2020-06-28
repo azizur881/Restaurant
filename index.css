@@ -1,0 +1,10 @@
+body{
+    background-color:lime;
+
+}
+ul{
+    text-decoration:none;
+    display: inline-block;
+    float:left;
+    
+}
